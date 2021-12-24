@@ -1,0 +1,19 @@
+﻿  scanner.c
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\table.h(111,1): warning C4047: 'initializing': 'PTR_AAF' differs in levels of indirection from 'int'
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(372,68): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(528,19): warning C4013: 'checkIfLexemHeld' undefined; assuming extern returning int
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(595,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(114,6): warning C4101: 'lexLength': unreferenced local variable
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(110,6): warning C4189: 'state': local variable is initialized but not referenced
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(111,8): warning C4101: 'lexStart': unreferenced local variable
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(115,6): warning C4101: 'i': unreferenced local variable
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(116,6): warning C4101: 'isError': unreferenced local variable
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(117,16): warning C4101: 'newc': unreferenced local variable
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(112,8): warning C4101: 'lexEnd': unreferenced local variable
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(860,8): warning C4189: 'currentToken': local variable is initialized but not referenced
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(1160,71): warning C4459: declaration of 'string' hides global declaration
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(72,6): message : see declaration of 'string'
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(1160,71): warning C4459: declaration of 'subString' hides global declaration
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(73,6): message : see declaration of 'subString'
+C:\Users\ajasa\source\repos\sem4_assignment02_comp\scanner.c(1160,43): warning C4100: 'subString': unreferenced formal parameter
+  sem4_assignment02_comp.vcxproj -> C:\Users\ajasa\source\repos\sem4_assignment02_comp\Debug\sem4_assignment02_comp.exe
