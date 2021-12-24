@@ -1,0 +1,3 @@
+﻿  testParser.c
+C:\Users\ajasa\source\repos\sem4_assignment03_comp\testParser.c(191,13): warning C4013: 'bufferPrint' undefined; assuming extern returning int
+  sem4_assignment03_comp.vcxproj -> C:\Users\ajasa\source\repos\sem4_assignment03_comp\Debug\sem4_assignment03_comp.exe

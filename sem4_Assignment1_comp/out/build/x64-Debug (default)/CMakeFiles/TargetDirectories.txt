@@ -1,0 +1,3 @@
+C:/Users/ajasa/source/repos/sem4_Assignment1_comp/out/build/x64-Debug (default)/CMakeFiles/sem4_Assignment1_comp.dir
+C:/Users/ajasa/source/repos/sem4_Assignment1_comp/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/ajasa/source/repos/sem4_Assignment1_comp/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
